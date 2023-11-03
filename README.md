@@ -17,8 +17,9 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=JaakLipp&style=flat-square&color=blue" alt="" align="center"/>
-
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=JaakLipp&style=flat-square&color=blue" alt="" align="center"/>
+</div>
 <div id="header" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
