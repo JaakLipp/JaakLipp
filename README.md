@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=JaakLipp&style=flat-square&color=blue" alt="" align="center"/>
+<img src="https://komarev.com/ghpvc/?username=JaakLipp&style=flat-square&color=blue"/>
 
 # To whom it may concern
 
