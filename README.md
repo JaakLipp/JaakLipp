@@ -16,8 +16,5 @@
   <a href="[your-youtube-URL](https://www.youtube.com/channel/UCOkXYaLq3XeYk6FdIiijNGw)" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=JaakLipp&style=flat-square&color=blue" alt=""/>
