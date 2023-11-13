@@ -14,10 +14,10 @@
 
 <div id="header" align="center">
 <a href="[https://www.linkedin.com/in/jacksonlippert/](https://www.linkedin.com/in/jacksonlippert/)" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img href="[https://www.linkedin.com/in/jacksonlippert/](https://www.linkedin.com/in/jacksonlippert/)" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.youtube.com/channel/UCOkXYaLq3XeYk6FdIiijNGw" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img href="https://www.youtube.com/channel/UCOkXYaLq3XeYk6FdIiijNGw" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
 </div>
 
