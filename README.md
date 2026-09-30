@@ -4,8 +4,7 @@
 
 ### My name is Jackson, and I am a Software Developer at RBC
 
-- This profile will serve as my love letter to programming, as I have many exciting projects and ideas that will come to fruition
-- If you're looking for someone to chat about software, or just chat in general, feel free to reach out to me 
+Cehck out my portfolio! https://JaakLipp.github.io 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
