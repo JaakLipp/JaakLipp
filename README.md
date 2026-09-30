@@ -1,14 +1,8 @@
-<img src="https://komarev.com/ghpvc/?username=JaakLipp&style=flat-square&color=blue"/>
-
-# To whom it may concern
+# Hey!
 
 ### My name is Jackson, and I am a Software Developer at RBC
 
 #### Check out my portfolio! https://JaakLipp.github.io 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <div id="header" align="center">
 <a href="https://www.linkedin.com/in/jacksonlippert/" style="text-decoration: none;">
