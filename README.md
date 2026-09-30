@@ -4,7 +4,7 @@
 
 ### My name is Jackson, and I am a Software Developer at RBC
 
-Cehck out my portfolio! https://JaakLipp.github.io 
+#### Check out my portfolio! https://JaakLipp.github.io 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
